@@ -144,3 +144,18 @@ body {
     position: absolute;
 }
 
+::-webkit-scrollbar {
+    width: 5px; 
+}
+::-webkit-scrollbar-track {
+    background: #141414; 
+}
+::-webkit-scrollbar-thumb {
+    background: #20d3fc; 
+}
+::-webkit-scrollbar-horizontal {
+    height: 5   px; 
+}
+::-webkit-scrollbar-thumb:horizontal {
+    background: #555; 
+}
